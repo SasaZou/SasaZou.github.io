@@ -56,13 +56,20 @@ h1{
 .laughter-line{
 	font-family: 'Merienda One', cursive;
 }
-.big-title{
+.homepage-1{
 	font-family: 'Lobster', cursive;
 }
-.lillte-tit{
-	font-family: 'Indie Flower', cursive;
+.homepage-2{
+	font-family: 'Merienda One', cursive;
+	color:orange;
 }
-.home-page{
-    font-family: 'Merienda One', cursive;
-    background-color: orange;
+.jumbotron {
+  background-image: url("../img/bigbears.png");
+  color:orange;
+  background-size: cover;
+  }
+.buttondown{
+	background-color: orange;
+	color:white;
+	font-family: 'Pacifico', cursive;
 }
