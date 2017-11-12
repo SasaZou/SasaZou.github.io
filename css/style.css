@@ -66,10 +66,17 @@ h1{
 .jumbotron {
   background-image: url("../img/bigbears.png");
   color:orange;
+  text-shadow: 1px 1px white;
   background-size: cover;
   }
 .buttondown{
 	background-color: orange;
-	color:white;
+	color:black;
 	font-family: 'Pacifico', cursive;
+}
+.somethingd{
+	font-family: 'Merienda One', cursive;
+}
+.std{
+	font-family: 'Merienda One', cursive;
 }
